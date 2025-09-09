@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Konni!
+
+🦄 Data Unicorn <br>
+💻 Worked as a Data Analytics Coach <br>
+🏫 Studied Psychology (M.Sc.) - Cognitive Neuoscience <br>
+❓ Ask me about my dogs <br>
+📚 Keep on Learning <br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/konstanze-braun/)
 
 <!--
 **konni-b/konni-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
